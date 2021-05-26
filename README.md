@@ -1,5 +1,5 @@
 # VisualText
-<img alt="Discord" src="https://img.shields.io/badge/-Serwer%20Discord-blue" url="https://discord.gg/JTVG5mpnMh"/>
+[![Serwer Discord](https://img.shields.io/badge/-Serwer%20Discord-blue)](https://discord.gg/JTVG5mpnMh)
 
 VisualText to przyszły edytor plików tekstowych, które będzie posiadał przyjazne dla użytkownika funkcje.
 Każdy użytkownik może też zaproponować zmianę/funkcję, zgłosić buga, lub się o coś zapytać, pisząc post w zakładce "Issues" (Ewentualnie pisząc do mnie na Discord - Notro#3737)
